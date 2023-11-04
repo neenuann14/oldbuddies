@@ -1,0 +1,303 @@
+h1 {
+    font-size: 75px;
+    color: #117fa4;
+    font-family: "Lexend", sans-serif;
+    font-weight: 700;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.bg {
+    background-image: url(../images/2.1.jpg);
+    height: 50vh;
+    color: antiquewhite;
+    margin-top: -20px;
+    background-size: cover;
+}
+
+
+.bg h1 {
+    max-width: 70%;
+}
+
+h2 {
+    font-size: 30px;
+    color: #117fa4;
+    font-weight: bold;
+}
+
+.box {
+    background-color: #117fa4;
+    min-height: 40%;
+    max-width: 30%;
+    margin-left: 10%;
+}
+
+.box button {
+    color: white;
+    background-color: #117fa4;
+    margin-left: 10px;
+}
+
+.box1 {
+    background-color: #00d084;
+    min-height: 40%;
+    max-width: 30%;
+    margin-left: 10%;
+}
+
+.box1 button {
+    color: white;
+    background-color: #00d084;
+    margin-left: 10px;
+}
+
+.box2 {
+    background-color: orange;
+    min-height: 40%;
+    max-width: 30%;
+    margin-left: 10%;
+}
+
+h3 {
+    padding-left: 20px;
+    padding-top: 60px;
+    color: white;
+    font-family: "Lexend", sans-serif;
+    font-size: 2rem;
+
+}
+
+p {
+
+    color: #333;
+    font-size: 14px;
+}
+
+span {
+    font-family: "Lexend", sans-serif;
+    color: #777;
+    font-weight: 800;
+    font-size: 1.2rem;
+    margin-left: 10%;
+    max-height: 10px;
+
+}
+
+h4 {
+    color: black;
+    font-family: "Lexend", sans-serif;
+    font-size: 28px;
+}
+
+.catbg {
+    background-image: url("https://ninelivesfoundation.org/wp-content/uploads/2022/08/vision-wide.jpg");
+    height: 40vh;
+    background-position: 50% 50%;
+
+}
+
+.catbginner {
+    padding: 2%;
+    padding-left: 20%;
+    background: linear-gradient(90deg, rgba(255, 255, 255, .85) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.catbg h4 {
+    width: 50%;
+}
+
+.catbg button {
+    background-color: orange;
+    padding: 1%;
+    color: white;
+}
+
+button {
+    color: black;
+    background-color: orange;
+
+}
+
+.catbg2 {
+    background-image: url("https://ninelivesfoundation.org/wp-content/uploads/2022/08/nine-lives-our-subscribe-bg-1.jpg ");
+    height: 40vh;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.catbg2 h1 {
+    color: white;
+}
+
+.catbg2 h4 {
+    color: white;
+}
+
+.catbg2 button {
+    color: white;
+    background-color: steelblue;
+}
+
+.navbar-default {
+    background-color: white;
+    border: none;
+    height: 70px;
+    margin-bottom: 0px;
+}
+
+.adoptnav {
+    height: 70px;
+    background-color: #4199B6;
+}
+
+.givenownav {
+    height: 70px;
+    background-color: #FD9125;
+}
+
+.navbar-brand {
+    height: 70px;
+    padding: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #333;
+    font-size: 16px;
+    height: 70px;
+    padding-top: 22px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.adoptnav a {
+    color: white !important;
+}
+
+.givenownav a {
+    color: white !important;
+}
+
+.bannertext {
+    margin-left: 10%;
+    padding-top: 5%;
+}
+
+.div1 {
+    height: 300px;
+    background-color: #117FA4;
+}
+
+.div1 h2 {
+    color: white;
+}
+
+.div1 button {
+    position: absolute;
+    bottom: 10;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-color: white;
+    border-width: 2px;
+}
+
+
+.div2 {
+    height: 300px;
+    padding: 0px;
+}
+
+
+.div2 img {
+    width: 100%;
+    height: 300px;
+}
+
+.div3 {
+    height: 300px;
+    background-color: #1AAD89;
+}
+
+
+.div3 h2 {
+    color: white;
+}
+
+.div3 button {
+    position: absolute;
+    bottom: 10;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-color: white;
+    border-width: 2px;
+}
+
+.div4 {
+    height: 300px;
+    background-color: #FD9125;
+}
+
+.div5 {
+    background-color: #85BED2;
+}
+
+.footer {
+    background: #333;
+    padding: 2%;
+}
+
+.footer p {
+    font-size: 15px;
+    color: white;
+    margin-left: 0px;
+}
+.adoptbtn{
+    background-color: #1AAD89;
+    padding: 3%;
+    color: white;
+    box-sizing: content-box;
+    
+}
+
+
+.steps{
+    border-color: #FD9125;
+    border-style:ridge ;                                ;
+    border-spacing: 10px;
+    min-height: 200px;
+    
+}
+
+.steps h2{
+    color: #1AAD89;
+    font-size: 30px;
+    
+}
+.steps p{
+    font-size: 20px;
+    color:grey;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
